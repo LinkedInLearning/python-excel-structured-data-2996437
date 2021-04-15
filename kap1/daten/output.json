@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Emily",
+        "Goals": 12,
+        "Assists": 18,
+        "Shots": 112
+    },
+    {
+        "Name": "Katie",
+        "Goals": 8,
+        "Assists": 24,
+        "Shots": 96
+    },
+    {
+        "Name": "John",
+        "Goals": 16,
+        "Assists": 9,
+        "Shots": 101
+    },
+    {
+        "Name": "Mike",
+        "Goals": 3,
+        "Assists": 14,
+        "Shots": 82
+    }
+]

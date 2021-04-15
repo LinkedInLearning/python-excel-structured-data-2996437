@@ -1,0 +1,82 @@
+{
+    "root": {
+        "item": [
+            {
+                "@type": "dict",
+                "Assists": {
+                    "#text": "18",
+                    "@type": "int"
+                },
+                "Goals": {
+                    "#text": "12",
+                    "@type": "int"
+                },
+                "Name": {
+                    "#text": "Emily",
+                    "@type": "str"
+                },
+                "Shots": {
+                    "#text": "112",
+                    "@type": "int"
+                }
+            },
+            {
+                "@type": "dict",
+                "Assists": {
+                    "#text": "24",
+                    "@type": "int"
+                },
+                "Goals": {
+                    "#text": "8",
+                    "@type": "int"
+                },
+                "Name": {
+                    "#text": "Katie",
+                    "@type": "str"
+                },
+                "Shots": {
+                    "#text": "96",
+                    "@type": "int"
+                }
+            },
+            {
+                "@type": "dict",
+                "Assists": {
+                    "#text": "9",
+                    "@type": "int"
+                },
+                "Goals": {
+                    "#text": "16",
+                    "@type": "int"
+                },
+                "Name": {
+                    "#text": "John",
+                    "@type": "str"
+                },
+                "Shots": {
+                    "#text": "101",
+                    "@type": "int"
+                }
+            },
+            {
+                "@type": "dict",
+                "Assists": {
+                    "#text": "14",
+                    "@type": "int"
+                },
+                "Goals": {
+                    "#text": "3",
+                    "@type": "int"
+                },
+                "Name": {
+                    "#text": "Mike",
+                    "@type": "str"
+                },
+                "Shots": {
+                    "#text": "82",
+                    "@type": "int"
+                }
+            }
+        ]
+    }
+}

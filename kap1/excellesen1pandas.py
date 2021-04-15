@@ -1,0 +1,26 @@
+# Einlesen einer Excel-Datei und Zerlegen der Daten in verwertbare Einzelinformationen mit Pandas - 
+# xlrd muss installiert sein (pip install xlrd)
+import os
+import pandas as pd
+daten=pd.read_excel(os.getcwd()+"/daten/Messwerte.xlsx", index_col=None, header=0) 
+
+print("Daten\n", daten)
+print("*" * 50)
+print("Zeilen", daten.index)
+print("*" * 50)
+print("Spalten", daten.columns)
+print("*" * 50)
+print("Typ", type(daten))
+print("*" * 50)
+print("Dimension",daten.ndim)
+print("*" * 50)
+print("Dimension als Tupel",daten.shape)
+print("*" * 50)
+print("dtypes",daten.dtypes)
+print("*" * 50)
+print("Werte",daten.values)
+print("*" * 50)
+print("Achsen",daten.axes)
+print("*" * 50)
+print("Anzahl der Elemente",daten.size)
+print("*" * 50)
