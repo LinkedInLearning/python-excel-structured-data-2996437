@@ -1,13 +1,8 @@
-# KURSNAME
+# Python und Excel: Strukturierte Daten bearbeiten
 Dies ist das Repository für den LinkedIn Learning-Kurs "Python und Excel: Strukturierte Daten bearbeiten". Der vollständige Kurs ist bei [LinkedIn Learning] verfügbar.(https://de.linkedin.com/learning/python-und-excel-strukturierte-daten-bearbeiten).
-
-
-
-[KURSBESCHREIBUNG]
 
 ## Anleitung
 Die Quellcodes zu dem Kurs sind nach Kapiteln strukturiert. In jedem der Ordner für ein Kapitel sind die Quellcodedateien zu dem jeweiligen Kapitel des Kurses zu finden.
-
 
 ## Installation/Download
 1. Um diese Übungsdateien zu verwenden, müssen Sie diese nur als Dateien downloaden.
