@@ -1,6 +1,8 @@
 # Python und Excel: Strukturierte Daten bearbeiten
 Dies ist das Repository für den **LinkedIn Learning**-Kurs "Python und Excel: Strukturierte Daten bearbeiten". Der vollständige Kurs ist bei [LinkedIn Learning](https://de.linkedin.com/learning/python-und-excel-strukturierte-daten-bearbeiten) verfügbar.
 
+![tn-url]
+
 ## Über diesen Kurs
 Tabellenkalkulationsprogramme wie Microsoft Excel oder LibreOffice Calc sind beliebt, um Daten zu speichern und zu verarbeiten. Das geht hin bis zum Aufbau von Datenstrukturen, die im Bereich von Big Data und Data Science als Basis genutzt werden können. Gerade, wenn man Daten programmiertechnisch verarbeiten will, müssen diese jedoch oft erst aus Dateien eingelesen und passend aufbereitet werden.  Dieser Kurs zeigt auf der einen Seite, wie man aus Python heraus sowohl mit Bordmitteln als auch ergänzenden Frameworks wie Pandas und Openpyxl solch eine Datenbasis nutzen kann, die über standardisierte Klartextformate in Form von CSV, XML und JSON bereitsteht. Diese können direkt oder indirekt von Tabellenkalkulationsprogrammen exportiert als auch importiert werden. Andererseits lernen Sie in dem Training, wie man direkt das native XLS- und XSLX-Format nutzt und damit Exceldateien unmittelbar mit Python bearbeitet.
 
@@ -13,3 +15,5 @@ Die Quellcodes zu dem Kurs sind nach Kapiteln strukturiert. In jedem der Ordner 
 
 ## Über den Autor - Ralph Steyer
 Sie finden [weitere Kurse von Ralph Steyer](https://www.linkedin.com/learning/instructors/ralph-steyer) auf **LinkedIn Learning**. Folgen Sie ihm auf [LinkedIn](https://www.linkedin.com/in/ralph-steyer-a69781/?trk=lil_instructor). 
+
+[tn-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQGpezZWhBhNiQ/learning-public-crop_675_1200/0/1602226346014?e=1646960400&v=beta&t=HrlQ9HJxg2W5Cbqsw9yNvJSw_rrsKpEM7rXijO_aTN0
